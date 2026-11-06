@@ -1,5 +1,5 @@
 > **Release status: this repository will be made public after the associated paper is accepted.**
-> **本仓库将在论文录用后开源。** Until then it holds only this description; code, models and documentation will be added at acceptance.
+>  Until then it holds only this description; code, models and documentation will be added at acceptance.
 
 # EarthCARE–Himawari collocation and evaluation toolkit
 
